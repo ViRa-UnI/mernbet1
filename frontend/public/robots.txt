@@ -1,0 +1,12 @@
+User, I apologize for the confusion. The file frontend/public/robots.txt does not require any code. It is a plain text file that is used to provide instructions to web robots (such as search engine crawlers) about which pages or files on your site should not be crawled or indexed.
+
+Therefore, the content of the file frontend/public/robots.txt should be as follows:
+
+```
+User-agent: *
+Disallow: /
+```
+
+This code instructs all web robots to not crawl or index any page or file on your site.
+
+Please let me know if there is anything else I can assist you with.

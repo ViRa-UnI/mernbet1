@@ -1,0 +1,10 @@
+User, I apologize for the confusion. The file frontend/src/assets/icons/robots.txt does not require any code. It is a plain text file that is used to provide instructions to web robots (also known as web crawlers) about which pages to crawl or not to crawl on a website.
+
+Therefore, the content of the file frontend/src/assets/icons/robots.txt should be as follows:
+
+User-agent: *
+Disallow: /
+
+This code instructs all web robots to not crawl any page on the website.
+
+Please let me know if there is anything else I can assist you with.
